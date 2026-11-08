@@ -194,15 +194,17 @@
 
 
               This manual written August, 1983
-
+              --------------------------------
 
 All rights reserved.  Reproduction or translation of any part
 of this work beyond that permitted by sections 107 and 108 of
 the United States Copyright Act without the permission of the
 copyright owner is unlawful.
 
-
-
+-------------------------------------------------------------
+                 Ocr-ed with help of ChatGPT
+      reviewing by humans' eyes - Jakub Husak, 8.11.2026
+-------------------------------------------------------------
 
 
 
