@@ -1,25 +1,25 @@
 # atari_action_manual_1_to_1_ascii
 
-This is AI-ocr-ed, all scan errors removed, optically side to side (cross-eye) compared, errors and typos fixed, page order restored
+This is AI-OCR'ed, with all scan errors removed and optically compared side-by-side (using the cross-eye technique). All errors and typos have been fixed, and the page order has been restored.
 
 The original source manual is attached.
 
-I have reached almost 100% of accuracy (_maybe_ one or two bugs went through), using AI and my special technique "crossed eyes".
+I have reached almost 100% accuracy (_maybe_ one or two bugs slipped through) using AI and my special "cross-eye" technique.
 
 # OCR Process:
-The document has been dropped into ChatGPT payed version. Then AI was asked for:
-- all letter positions must correspond to original (result: some pages good 1:1, but most needed some spaces to be added or removed)
-- no ocr errors (result: <5 ocr errors, only when text unreadable)
-- overall the ascii file mus correspond 1:1 to the original.
-- repair obvious errors
-- special care for examples and code snippets.
+The document was dropped into the paid version of ChatGPT. The AI was then asked to ensure that:
+- All character positions correspond to the original (Result: some pages were a perfect 1:1 match, but most needed some spaces to be added or removed).
+- There are no OCR errors (Result: <5 OCR errors, only where the text was unreadable).
+- Overall, the ASCII file corresponds 1:1 to the original.
+- Obvious errors are repaired.
+- Special care is taken with examples and code snippets.
 
-# AI by it's own:
-- checked thoroughly uncertain chars
-- compiled and checked examples included in book.
+# AI Contributions:
+- Thoroughly checked uncertain characters.
+- Compiled and verified the examples included in the book.
 
-# Then my work introduced - several hours (about 8)
-I have displayed the page from the original on the left, the page ocr-ed and processed on the right, with very similar typeface (Courier New) and size. Then using cross-eye techique, repaireded any misplacement. Several missplacements were due to errors and typos in original, for example doublets of "the" word or so.
+# My Contribution (about 8 hours of work):
+I displayed the original page on the left and the OCR'ed, processed page on the right using a very similar typeface (Courier New) and size. Then, using the cross-eye technique, I repaired any misalignments. Several misalignments were due to errors and typos in the original, such as duplicate words (e.g., "the the").
 
-# The result:
-As close to 100% of correctness, as I could provide. There are errors repaired, and I could not find any error during a second pass compare (well, I have found two, but those were right before going to sleep).
+# The Result:
+As close to 100% accuracy as I could possibly provide. Errors have been repaired, and I could not find a single mistake during a second-pass comparison (well, I found two, but that was right before going to sleep).
